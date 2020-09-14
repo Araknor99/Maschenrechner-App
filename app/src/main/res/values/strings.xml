@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Maschenrechner</string>
+    <string name="stitches">Maschen</string>
+    <string name="rows">Reihen</string>
+    <string name="yourStitches">Deine Maschenprobe(10 x 10cm) hat</string>
+    <string name="theirStitches">Maschenprobe aus der Anleitung</string>
+    <string name="wantedStitches">Aus der Anleitung</string>
+    <string name="calculate">Berechnen</string>
+    <string name="result">Ergebnis</string>
+    <string name="yourStitchResult">Deine Maschen</string>
+    <string name="yourRowResult">Deine Reihen</string>
+</resources>
